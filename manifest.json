@@ -1,11 +1,24 @@
-{
-  "pages": [
-    2,
-    3,
-    4,
-    5,
-    7,
-    8,
-    10
+16{
+  "units": [
+    {
+      "name": "Unit 1",
+      "prefix": "Unit1_Page_",
+      "pages": [1,2,3,4,5,6,7,8]
+    },
+    {
+      "name": "Unit 2",
+      "prefix": "Unit2_Page_",
+      "pages": [1,2,3,4]
+    }
+	 {
+      "name": "Unit 3",
+      "prefix": "Unit2_Page_",
+      "pages": [1,2,3,4]
+    }
+	 {
+      "name": "Unit 4",
+      "prefix": "Unit2_Page_",
+      "pages": [1,2,3,4]
+    }
   ]
 }
